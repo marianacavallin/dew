@@ -1,0 +1,17 @@
+p {
+    background-color: blueviolet;
+} #mariana{
+    color: yellow;
+}
+#mariana p {
+    background-color: green;
+}
+.fundo_vermelho{
+    background-color: red;
+}
+h1{
+    text-align: center;
+}
+.centralizado{
+    text-align: center;
+}
